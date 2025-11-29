@@ -13,7 +13,11 @@ When Vo= - Vsat, the voltage across R1 is referred to as lower threshold voltage
 
 ## CIRCUIT DIAGRAM:
 
+![WhatsApp Image 2025-11-29 at 12 02 36](https://github.com/user-attachments/assets/0e297d4f-7996-43e0-bbe2-6144e1a5d279)
+
 ## MODEL GRAPH:
+
+![WhatsApp Image 2025-11-29 at 12 03 11](https://github.com/user-attachments/assets/9d96003e-e088-40ba-847a-689e4307a880)
 
 ## PROCEDURE:
 1. Design the value of circuit components and select VUT & VLT as given in the design procedure.
@@ -27,9 +31,13 @@ When Vo= - Vsat, the voltage across R1 is referred to as lower threshold voltage
 
 ## TABULATION:
 
-## CALCULATIONS:
+![WhatsApp Image 2025-11-29 at 12 02 53](https://github.com/user-attachments/assets/6ea54c6e-0b85-4922-b3c9-9d93314cfd81)
+
 
 ## GRAPH:
+
+
+![WhatsApp Image 2025-11-29 at 12 03 35](https://github.com/user-attachments/assets/57d9bc79-ea87-4ca5-aae2-508529f91965)
 
 ## RESULT:
 Thus a Schmitt trigger is designed and tested using op-amp IC 741.
